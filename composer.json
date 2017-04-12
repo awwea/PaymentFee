@@ -1,0 +1,21 @@
+{
+  "name": "awwea/payment-fee",
+  "description": "Magento2 Payment Fee",
+  "authors": [
+    {
+      "name": "code",
+      "email": "magento@code.com"
+    }
+  ],
+  "type": "magento2-module",
+  "minimum-stability": "",
+  "require": {},
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Magento\\PaymentFee\\": ""
+    }
+  }
+}
