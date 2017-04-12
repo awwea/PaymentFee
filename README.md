@@ -31,11 +31,9 @@ Thanks to <a href="https://github.com/devromans">@devromans</a>
 
 **Tested: Magento 2.1.2**
 
-# magento2-payment-fee
-
-PaymentFee Install
+# magento2-payment-fee : PaymentFee Install
 ==================
 ```
 composer config repositories.payment-fee-magento2-plugin vcs https://github.com/awwea/magento2-payment-fee
-composer require awwea/magento2-payment-fee:dev-master
+composer require boolfly/payment-feee:dev-master
 ```
